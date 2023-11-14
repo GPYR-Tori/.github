@@ -3,7 +3,7 @@
 
 ### 외국인 관광객을 위한 경기도 여행지 추천 서비스
 
-> Stamp your STori.
+> <i>Travel to the Essence of Korea, Stamp your S<B>Tori</B>.</i>
 
 <br>
 
