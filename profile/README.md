@@ -12,7 +12,7 @@
 - - -
 ## 📃 소개
 
-<img width="1201" alt="서비스소개" src="https://github.com/GPYR-Tori/.github/assets/102344718/88aad154-c97a-4ce3-839f-ff097777354f">
+<img width="1195" alt="Tori소개" src="https://github.com/GPYR-Tori/.github/assets/102344718/7ebf5c23-6bb7-418d-a7cd-958321b206dd">
 
 
 <br>
