@@ -12,8 +12,9 @@
 - - -
 ## 📃 소개
 
-<img width="1195" alt="Tori소개" src="https://github.com/GPYR-Tori/.github/assets/102344718/7ebf5c23-6bb7-418d-a7cd-958321b206dd">
-
+<p align="center">
+  <img width="650" alt="Tori소개" src="https://github.com/GPYR-Tori/.github/assets/102344718/7ebf5c23-6bb7-418d-a7cd-958321b206dd">
+</p>
 
 <br>
 
@@ -89,7 +90,7 @@
 <table>
   <tr>
     <td align='center'>
-    <a href='https://spiral-moose-c33.notion.site/7e97e0c8815d4acf815ffa0c885348a4?pvs=4'>
+    <a href='https://www.notion.so/inkyungwoo/2-Tori-22dd0a62eaf248e496873b8cd4cce7c7?pvs=4'>
     <img src='https://github.com/selfrescue/selfrescue/assets/130124454/189b7c67-88a0-49c6-9682-1aecef0533e2' width="150px;" alt="Notion"/>
     <br />
     <sub>
@@ -100,7 +101,6 @@
     <br />
     </td>
     <td align='center'>
-    <a href='https://spiral-moose-c33.notion.site/7e97e0c8815d4acf815ffa0c885348a4?pvs=4'>
     <img src='https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/d6/b9/bcd6b9c9-766f-bd93-a4f2-cb0bc06f5431/electron.png/1200x630bb.png' width="150px;" alt="Slack"/>
     <br />
     <sub>
@@ -111,7 +111,7 @@
     <br />
     </td>
     <td align="center">
-    <a href='https://discord.gg/KJWkZJg4'>
+    <a href='https://www.figma.com/file/LKYwFq9bUbcfvNoNwLxSoC/%ED%86%A0%EB%A6%AC_%EB%94%94%EC%9E%90%EC%9D%B8draft?type=design&node-id=0%3A1&mode=design&t=T8neaQ75ZjRW57ye-1'>
     <img src='https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format' width="150px;" alt="Figma"/>
     <br />
     <sub>
@@ -122,18 +122,18 @@
     <br />
     </td>
     <td align="center">
-    <a href=''>
-    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/05/gathertown_bek9UzT.png" width="150px;" alt="Google Meet"/>
+    <a href='https://app.gather.town/app/L5tBTaBfHphecCvc/gapyear'>
+    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/05/gathertown_bek9UzT.png" width="150px;" alt="GatherTown"/>
     <br />
     <sub>
-    <b>Gathertown</b><br>
+    <b>GatherTown</b><br>
     <b>🖥️ 비대면 회의 진행</b>
     </sub>
     </a>
     <br />
     </td>    
     <td align="center">
-    <a href=''>
+    <a href='https://drive.google.com/drive/folders/1xzYnY6zgMwey2DQosOS8HRyxIN1u2UKc?usp=sharing'>
     <img src="https://github.com/selfrescue/selfrescue/assets/130124454/d657cc6e-e8a1-4c48-9988-3ba3cf8f6c63" width="150px;" alt="Google Drive"/>
     <br />
     <sub>
