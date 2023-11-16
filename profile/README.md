@@ -1,11 +1,12 @@
 # 경기청년 갭이어 2기 - 아기사자 팀 🦁
 <br>
 
-## 외국인 관광객을 위한 경기도 여행지 추천 웹서비스
+## 📍 외국인 관광객을 위한 경기도 여행지 추천 웹서비스 🗺️
 
-> ### <i>Travel to the Essence of Korea, Stamp your S<B>Tori</B>.</i>
+> ### <i>Travel to the Essence of Korea, Stamp your S<B>Tori</B>.</i> 
+<br>
 
-
+`경기청년 갭이어프로그램 2기` 참가자 `아기사자` 팀의 깃허브 repository입니다!
 
 <br><br>
 
@@ -13,7 +14,7 @@
 ## 📃 소개
 
 <p align="center">
-  <img width="650" alt="Tori소개" src="https://github.com/GPYR-Tori/.github/assets/102344718/7ebf5c23-6bb7-418d-a7cd-958321b206dd">
+  <img width="800" alt="Tori소개" src="https://github.com/GPYR-Tori/.github/assets/102344718/7ebf5c23-6bb7-418d-a7cd-958321b206dd">
 </p>
 
 <br>
@@ -24,6 +25,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
+아기사자 팀의 팀원들을 소개합니다 ( ˃ᴗ˂ )
 <table>
   <tr>
     <td align="center">
@@ -145,6 +147,7 @@
     </td>
   </tr>
 </table>
+<br>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
