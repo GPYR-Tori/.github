@@ -6,6 +6,8 @@
 > ### <i>Travel to the Essence of Korea, Stamp your S<B>Tori</B>.</i> 
 <br>
 
+💡 <b>2023.09.01~2023.11.17</b>
+
 `경기청년 갭이어프로그램 2기` 참가자 `아기사자` 팀의 깃허브 repository입니다!
 
 <br><br>
@@ -147,6 +149,10 @@
     </td>
   </tr>
 </table>
+<br>
+
+각 링크를 클릭해 이동하시면 `아기사자` 팀의 활동 로그를 확인할 수 있습니다!
+
 <br>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
