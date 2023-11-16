@@ -11,7 +11,10 @@
 
 - - -
 ## 📃 소개
-<img src="/Users/inkyung/Desktop/github/tori/.github/profile/contents/서비스소개.png" alt="Tori소개"/>
+
+![Tori소개](.github/profile/contents/서비스소개.png)
+
+<br>
 
 ## 🧑‍🤝‍🧑 Team members:
 
