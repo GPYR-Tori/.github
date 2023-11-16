@@ -12,7 +12,8 @@
 - - -
 ## 📃 소개
 
-![Tori소개](.github/profile/contents/서비스소개.png)
+<img width="1201" alt="서비스소개" src="https://github.com/GPYR-Tori/.github/assets/102344718/88aad154-c97a-4ce3-839f-ff097777354f">
+
 
 <br>
 
